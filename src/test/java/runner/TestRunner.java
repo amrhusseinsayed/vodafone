@@ -16,7 +16,7 @@ import utils.PropertiesFileUtil;
         , plugin = {"pretty"
         , "json:target/cucumber-reports/CucumberTestReport.json"
         , "rerun:target/cucumber-reports/rerun.txt"}
-        , tags = "not @ignore and @cart")
+        , tags = "not @ignore")
 public class TestRunner {
     /**
      * This method is executed before all the test case to extract
