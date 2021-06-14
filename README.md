@@ -105,3 +105,4 @@ You can see a sample of the testing report, logs files and screenshots in the di
 * In case you face any compiler errors, make sure that the `Language Level` and the `Target bytecode version` of the project are set to `11` 
 * The `ActionsUtil.java` class contains only the helper methods that were called during with the flows or the APIs scenarios but it can be modified anytime to have more helper methods
 * All the scenarios to be executed should not have the tag `@ignore`
+* You can replace the `chromedriver.exe` with the one that matches your browser version
