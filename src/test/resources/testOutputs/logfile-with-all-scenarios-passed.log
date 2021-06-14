@@ -1,0 +1,117 @@
+14-Jun-21 00:59:12 [INFO] Hooks.before:29 - ---------------------------------------------------------------
+14-Jun-21 00:59:12 [INFO] Hooks.before:30 - Test Case Name: Registration Scenario
+14-Jun-21 00:59:12 [INFO] Hooks.before:31 - Status: Started
+14-Jun-21 00:59:12 [INFO] Hooks.before:32 - ---------------------------------------------------------------
+14-Jun-21 00:59:12 [INFO] ActionsUtil.logInfo:380 - Initializing the Browser instance
+14-Jun-21 00:59:17 [INFO] ActionsUtil.logInfo:380 - Navigating to the URL: 'http://automationpractice.com/index.php'
+14-Jun-21 00:59:28 [INFO] ActionsUtil.logInfo:380 - Click on the sign in button
+14-Jun-21 00:59:29 [INFO] ActionsUtil.logInfo:380 - Entering the registration mail as 'useramrtest@mail.com'
+14-Jun-21 00:59:29 [INFO] ActionsUtil.logInfo:380 - Click on the create account button
+14-Jun-21 00:59:29 [INFO] ActionsUtil.logInfo:380 - Waiting for the registration from to be visible
+14-Jun-21 00:59:34 [INFO] ActionsUtil.logInfo:380 - Choosing gender as 'Mr.'
+14-Jun-21 00:59:34 [INFO] ActionsUtil.logInfo:380 - Entering customer first name as 'Ahmed'
+14-Jun-21 00:59:34 [INFO] ActionsUtil.logInfo:380 - Entering customer last name as 'Sayed'
+14-Jun-21 00:59:35 [INFO] ActionsUtil.logInfo:380 - Entering password as 'P@ssw0rd'
+14-Jun-21 00:59:35 [INFO] ActionsUtil.logInfo:380 - Choosing birth day as '12'
+14-Jun-21 00:59:35 [INFO] ActionsUtil.logInfo:380 - Choosing birth month as '8'
+14-Jun-21 00:59:35 [INFO] ActionsUtil.logInfo:380 - Choosing birth year as '1999'
+14-Jun-21 00:59:35 [INFO] ActionsUtil.logInfo:380 - Selecting the newsletter option
+14-Jun-21 00:59:35 [INFO] ActionsUtil.logInfo:380 - Entering first name as 'Ahmed'
+14-Jun-21 00:59:36 [INFO] ActionsUtil.logInfo:380 - Entering last name as 'Mahmoud'
+14-Jun-21 00:59:36 [INFO] ActionsUtil.logInfo:380 - Entering company as 'Google'
+14-Jun-21 00:59:36 [INFO] ActionsUtil.logInfo:380 - Entering address1 as 'Street 9'
+14-Jun-21 00:59:36 [INFO] ActionsUtil.logInfo:380 - Entering address2 as 'Naser City'
+14-Jun-21 00:59:36 [INFO] ActionsUtil.logInfo:380 - Entering city as 'Cairo'
+14-Jun-21 00:59:37 [INFO] ActionsUtil.logInfo:380 - Choosing state as 'Georgia'
+14-Jun-21 00:59:37 [INFO] ActionsUtil.logInfo:380 - Entering postcode as '10000'
+14-Jun-21 00:59:37 [INFO] ActionsUtil.logInfo:380 - Entering additional information as 'Additional'
+14-Jun-21 00:59:37 [INFO] ActionsUtil.logInfo:380 - Entering home phone as '27101817'
+14-Jun-21 00:59:37 [INFO] ActionsUtil.logInfo:380 - Entering mobile phone as '01159915678'
+14-Jun-21 00:59:38 [INFO] ActionsUtil.logInfo:380 - Entering reference address as 'October'
+14-Jun-21 00:59:40 [INFO] ActionsUtil.logInfo:380 - Click on the registration submit button
+14-Jun-21 00:59:40 [INFO] ActionsUtil.logInfo:380 - Waiting for the sign out button to be visible
+14-Jun-21 00:59:40 [INFO] ActionsUtil.logInfo:380 - The sign out button is now visible
+14-Jun-21 00:59:40 [INFO] ActionsUtil.logSuccess:402 - Test Status: Passed
+14-Jun-21 00:59:40 [INFO] ActionsUtil.logInfo:380 - Closing the running browser instance
+14-Jun-21 00:59:41 [INFO] Hooks.before:29 - ---------------------------------------------------------------
+14-Jun-21 00:59:41 [INFO] Hooks.before:30 - Test Case Name: Login Scenario
+14-Jun-21 00:59:41 [INFO] Hooks.before:31 - Status: Started
+14-Jun-21 00:59:41 [INFO] Hooks.before:32 - ---------------------------------------------------------------
+14-Jun-21 00:59:41 [INFO] ActionsUtil.logInfo:380 - Initializing the Browser instance
+14-Jun-21 00:59:43 [INFO] ActionsUtil.logInfo:380 - Navigating to the URL: 'http://automationpractice.com/index.php'
+14-Jun-21 00:59:51 [INFO] ActionsUtil.logInfo:380 - Click on the sign in button
+14-Jun-21 00:59:51 [INFO] ActionsUtil.logInfo:380 - Starting to fill the login form
+14-Jun-21 00:59:51 [INFO] ActionsUtil.logInfo:380 - Entering login email as 'useramrtest@mail.com'
+14-Jun-21 00:59:52 [INFO] ActionsUtil.logInfo:380 - Entering login password as 'P@ssw0rd'
+14-Jun-21 00:59:53 [INFO] ActionsUtil.logInfo:380 - Click on the sign in button
+14-Jun-21 00:59:53 [INFO] ActionsUtil.logInfo:380 - Waiting for the sign out button to be visible
+14-Jun-21 00:59:53 [INFO] ActionsUtil.logInfo:380 - The sign out button is now visible
+14-Jun-21 00:59:53 [INFO] ActionsUtil.logSuccess:402 - Test Status: Passed
+14-Jun-21 00:59:53 [INFO] ActionsUtil.logInfo:380 - Closing the running browser instance
+14-Jun-21 00:59:58 [INFO] Hooks.before:29 - ---------------------------------------------------------------
+14-Jun-21 00:59:58 [INFO] Hooks.before:30 - Test Case Name: Cart Checkout Scenario
+14-Jun-21 00:59:58 [INFO] Hooks.before:31 - Status: Started
+14-Jun-21 00:59:58 [INFO] Hooks.before:32 - ---------------------------------------------------------------
+14-Jun-21 00:59:58 [INFO] ActionsUtil.logInfo:380 - Initializing the Browser instance
+14-Jun-21 01:00:00 [INFO] ActionsUtil.logInfo:380 - Navigating to the URL: 'http://automationpractice.com/index.php'
+14-Jun-21 01:00:09 [INFO] ActionsUtil.logInfo:380 - Click on the sign in button
+14-Jun-21 01:00:09 [INFO] ActionsUtil.logInfo:380 - Starting to fill the login form
+14-Jun-21 01:00:09 [INFO] ActionsUtil.logInfo:380 - Entering login email as 'useramrtest@mail.com'
+14-Jun-21 01:00:09 [INFO] ActionsUtil.logInfo:380 - Entering login password as 'P@ssw0rd'
+14-Jun-21 01:00:11 [INFO] ActionsUtil.logInfo:380 - Click on the sign in button
+14-Jun-21 01:00:11 [INFO] ActionsUtil.logInfo:380 - Waiting for the sign out button to be visible
+14-Jun-21 01:00:12 [INFO] ActionsUtil.logInfo:380 - The sign out button is now visible
+14-Jun-21 01:00:14 [INFO] ActionsUtil.logInfo:380 - Navigate to T-Shirts page
+14-Jun-21 01:00:14 [INFO] ActionsUtil.logInfo:380 - Select the item named 'Faded Short Sleeve T-shirts'
+14-Jun-21 01:00:17 [INFO] ActionsUtil.logInfo:380 - Add the selected item to the cart
+14-Jun-21 01:00:21 [INFO] ActionsUtil.logInfo:380 - Proceed to checkout page
+14-Jun-21 01:00:22 [INFO] ActionsUtil.logInfo:380 - Proceed to the Address page
+14-Jun-21 01:00:24 [INFO] ActionsUtil.logInfo:380 - Proceed to the Shipping page
+14-Jun-21 01:00:24 [INFO] ActionsUtil.logInfo:380 - Accept the terms and conditions
+14-Jun-21 01:00:25 [INFO] ActionsUtil.logInfo:380 - Proceed to the Payment page
+14-Jun-21 01:00:26 [INFO] ActionsUtil.logInfo:380 - Choose to pay by bank wire
+14-Jun-21 01:00:28 [INFO] ActionsUtil.logInfo:380 - Confirm the order
+14-Jun-21 01:00:28 [INFO] ActionsUtil.logInfo:380 - Waiting for the checkout process to be completed
+14-Jun-21 01:00:28 [INFO] ActionsUtil.logInfo:380 - The checkout process is completed
+14-Jun-21 01:00:28 [INFO] ActionsUtil.logSuccess:402 - Test Status: Passed
+14-Jun-21 01:00:28 [INFO] ActionsUtil.logInfo:380 - Closing the running browser instance
+14-Jun-21 01:00:29 [INFO] Hooks.before:29 - ---------------------------------------------------------------
+14-Jun-21 01:00:29 [INFO] Hooks.before:30 - Test Case Name: Get all posts
+14-Jun-21 01:00:29 [INFO] Hooks.before:31 - Status: Started
+14-Jun-21 01:00:29 [INFO] Hooks.before:32 - ---------------------------------------------------------------
+14-Jun-21 01:00:30 [INFO] ActionsUtil.logInfo:380 - Getting all the posts data
+14-Jun-21 01:00:31 [INFO] ActionsUtil.logInfo:380 - All the posts data has been successfully retrieved
+14-Jun-21 01:00:31 [INFO] ActionsUtil.logInfo:380 - Asserting that the retrieved status code from the called API is '200'
+14-Jun-21 01:00:31 [INFO] ActionsUtil.logInfo:380 - Extracting the response status code of the called API
+14-Jun-21 01:00:31 [INFO] ActionsUtil.logInfo:380 - The retrieved status code is '200'
+14-Jun-21 01:00:31 [INFO] ActionsUtil.logInfo:380 - Asserting that the number of posts in the response body of the called API is '100'
+14-Jun-21 01:00:31 [INFO] ActionsUtil.logInfo:380 - Extracting the response body of the called API
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - The number of the retrieved posts is '100'
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logSuccess:402 - Test Status: Passed
+14-Jun-21 01:00:32 [INFO] Hooks.before:29 - ---------------------------------------------------------------
+14-Jun-21 01:00:32 [INFO] Hooks.before:30 - Test Case Name: Get post by id
+14-Jun-21 01:00:32 [INFO] Hooks.before:31 - Status: Started
+14-Jun-21 01:00:32 [INFO] Hooks.before:32 - ---------------------------------------------------------------
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - Getting the data of the post with id as '1'
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - The data of the post with id as '1' has been successfully retrieved
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - Asserting that the retrieved status code from the called API is '200'
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - Extracting the response status code of the called API
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - The retrieved status code is '200'
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - Asserting that the id value in the response body is '1'
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - Extracting the response body of the called API
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - Extracting the value of the key 'id' from the response body of the called API
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - The id value in the response body is '1'
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logSuccess:402 - Test Status: Passed
+14-Jun-21 01:00:32 [INFO] Hooks.before:29 - ---------------------------------------------------------------
+14-Jun-21 01:00:32 [INFO] Hooks.before:30 - Test Case Name: Add new post
+14-Jun-21 01:00:32 [INFO] Hooks.before:31 - Status: Started
+14-Jun-21 01:00:32 [INFO] Hooks.before:32 - ---------------------------------------------------------------
+14-Jun-21 01:00:32 [INFO] ActionsUtil.logInfo:380 - Adding a new post with the data: '{"body":"bar","title":"foo","userId":1}'
+14-Jun-21 01:00:33 [INFO] ActionsUtil.logInfo:380 - The new post has been successfully added
+14-Jun-21 01:00:33 [INFO] ActionsUtil.logInfo:380 - Asserting that the retrieved status code from the called API is '201'
+14-Jun-21 01:00:33 [INFO] ActionsUtil.logInfo:380 - Extracting the response status code of the called API
+14-Jun-21 01:00:33 [INFO] ActionsUtil.logInfo:380 - The retrieved status code is '201'
+14-Jun-21 01:00:33 [INFO] ActionsUtil.logInfo:380 - Asserting that the data of the added post exists in the response body
+14-Jun-21 01:00:33 [INFO] ActionsUtil.logInfo:380 - Extracting the response body of the called API
+14-Jun-21 01:00:33 [INFO] ActionsUtil.logInfo:380 - The data of the added post exists in the response body
+14-Jun-21 01:00:33 [INFO] ActionsUtil.logSuccess:402 - Test Status: Passed
